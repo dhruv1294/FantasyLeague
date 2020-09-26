@@ -32,7 +32,7 @@ object MatchRepository {
 
         // random string so that a new key is added to the map.
         // temp to test viewmodel.
-        return Player(getRandomString(6), Math.random().toInt(), 0, 1, 2)
+        return Player(getRandomString(6), Math.random().toInt(), 0, 1, 2,0.0,"run out (Stoinis)")
     }
 
     fun cancelJob() {
