@@ -6,5 +6,4 @@ data class Match(
     var result: MatchResultInfo? = null,
     var matchInfo: String? = null,
     var time: String? = null
-
 )

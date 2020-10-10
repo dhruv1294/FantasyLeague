@@ -6,5 +6,4 @@ data class MatchResultInfo(
     var manOfMatch: String? = null,
     var winner: String? = null
 ) {
-
 }

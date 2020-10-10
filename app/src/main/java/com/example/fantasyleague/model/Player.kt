@@ -13,5 +13,4 @@ data class Player(
     override fun toString(): String {
         return "name: $name runs: $runs wickets: $wickets fours: $fours sixes: $sixes strikeRate: $strikeRate";
     }
-
 }
